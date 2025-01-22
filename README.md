@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CS50's Introduction to Artificial Intelligence with Python
 
 This repository contains my solutions to the 12 projects from **CS50's Introduction to Artificial Intelligence with Python** course offered by Harvard University. These projects cover key topics in AI such as search algorithms, machine learning, natural language processing, and neural networks.
@@ -61,3 +62,6 @@ Here are the details of each project included in this repository:
 ### 12. Heredity
 - **Description**: A Bayesian network model to predict genetic inheritance of traits.
 - **Key Concepts**: Bayesian networks, probability theory.
+=======
+# cs50ai-harvard
+>>>>>>> 8c21218508620d30e8e43deb818c5ea8cce07978
