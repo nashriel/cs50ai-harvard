@@ -62,6 +62,5 @@ Here are the details of each project included in this repository:
 ### 12. Heredity
 - **Description**: A Bayesian network model to predict genetic inheritance of traits.
 - **Key Concepts**: Bayesian networks, probability theory.
-=======
 
 
