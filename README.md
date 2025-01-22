@@ -63,5 +63,5 @@ Here are the details of each project included in this repository:
 - **Description**: A Bayesian network model to predict genetic inheritance of traits.
 - **Key Concepts**: Bayesian networks, probability theory.
 =======
-# cs50ai-harvard
+
 
